@@ -1,8 +1,8 @@
-#include <xCore.h>
-#include <xOD01.h>
+#include <xCore.h> //find @ https://github.com/xinabox/xCore
+#include <xOD01.h> //find @ https://github.com/xinabox/xOD01
 #include <ESP8266WiFi.h>
 #include "TIMER_CTRL.h"
-#include <xSL01.h>
+#include <xSL01.h> //find @ https://github.com/xinabox/xSL01
 
 xSL01 SL01;
 
